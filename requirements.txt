@@ -1,0 +1,5 @@
+run the nitro generator and checker file
+
+before you run go to cmd prompt and type pip install requirements 
+
+enjoy
